@@ -1,6 +1,3 @@
-tv
-mouse
-make soup
-make pizza
-coding
-showww
+playing
+mastering python
+example
