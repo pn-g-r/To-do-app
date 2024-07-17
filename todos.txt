@@ -1,3 +1,4 @@
 playing
 mastering python
-example
+hi
+hello
